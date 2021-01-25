@@ -37,11 +37,11 @@
 @include('website.layouts.about')
 @include('website.layouts.resume')
 @include('website.layouts.services')
-@include('website.layouts.portfolio')
+{{--@include('website.layouts.portfolio')--}}
 @include('website.layouts.contact')
 
 <div class="credits">
-    Designed by <a href="https://www.rampesna.com/">Rampesna</a>
+    
 </div>
 
 <!-- Vendor JS Files -->

@@ -1,2 +1,2 @@
 @extends('website.layouts.master')
-@section('title','Anasayfa')
+@section('title','Talha Can // Rampesna')
